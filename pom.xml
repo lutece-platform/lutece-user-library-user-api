@@ -7,7 +7,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>fr.paris.lutece.plugins</groupId>
     <artifactId>library-user-api</artifactId>
-    <version>2.0.0</version>
+    <version>2.0.1-SNAPSHOT</version>
     <name>Library User API</name>
     <description>Core library that contains User interface for MyLutece and Back Office users</description>
     
@@ -44,7 +44,7 @@
         <connection>scm:git:https://github.com/lutece-platform/lutece-user-library-user-api.git</connection>
         <developerConnection>scm:git:https://github.com/lutece-platform/lutece-user-library-user-api.git</developerConnection>
         <url>https://github.com/lutece-platform/lutece-user-library-user-api.git</url>
-      <tag>library-user-api-2.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
     
 </project>
